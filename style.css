@@ -1,0 +1,159 @@
+html{
+	scroll-behavior: smooth;
+}
+
+
+body{
+			background:#ADD8E6;
+			color: #fff;
+			font-family: arial;
+			 background-image: url('sky image.jpg');
+            background-repeat: no-repeat;
+           background-attachment: fixed;
+            background-size: cover;
+			
+		}
+		 
+		
+           
+		ul{
+			padding: 10px;
+		}
+
+		
+		
+		header h1{
+			
+			text-align: center;
+
+			font-family:verdana;
+			height: 50px;
+			font-style: italic;
+			
+			
+
+
+		}
+
+		nav{
+			height: 50px;
+		   }
+
+		nav ul{
+			padding-top: 13px;
+			padding-left: 10px;
+			
+		}
+		nav li{
+			list-style: none;
+			float: left;
+			padding-right: 20px;
+			
+			
+
+		}
+		.button1{
+			border-radius: 50%;
+			font-size: 16px;
+			padding:15px 32px ;
+			text-align: center;
+          text-decoration: none;
+           display: inline-block;
+            float:left;
+           background-color:white;
+}
+		
+
+
+
+		
+			.button1:hover{
+			background-color:#00FF00; 
+             color: white;
+              float: left;
+              -ms-transform: scale(1.5); 
+           -webkit-transform: scale(1.5); 
+            transform: scale(1.5); 
+            
+			
+
+		}
+
+		.button2{
+			border-radius: 50%;
+			font-size: 16px;
+			padding:15px 32px ;
+			text-align: center;
+          text-decoration: none;
+           display: inline-block;
+            float:left;
+           background-color:white;
+			
+		}
+		.button2:hover{
+			background-color: #00FF00; 
+             color: white;
+             -ms-transform: scale(1.5); 
+              -webkit-transform: scale(1.5); 
+               transform: scale(1.5); 
+         }
+
+		.button3{
+			border-radius: 50%;
+			font-size: 16px;
+			padding:15px 32px ;
+			text-align: center;
+          text-decoration: none;
+           display: inline-block;
+            float:left;
+           background-color:white;
+			
+		}
+		.button3:hover{
+			background-color:#00FF00; 
+             color: white;
+             -ms-transform: scale(1.5); /* IE 9 */
+           -webkit-transform: scale(1.5); /* Safari 3-8 */
+            transform: scale(1.5); 
+         }
+		img{
+			border-radius: 50%;
+			
+		
+
+			
+		}
+		.centre{
+			display: block;
+			margin-left: auto;
+            margin-right: auto;
+            
+}
+
+            
+
+
+         #homepage{
+         	text-align: center;
+         	color:#00008b ;
+         	font-style: italic;
+         	
+
+         }   
+
+         .form{
+         	          margin: 0;
+         	          position: absolute;
+         	          top: 75%;
+         	          left: 50%;
+         	          -ms-transform:translate(-50%,-50%);
+         	         transform: translate(-50%,-50%);
+}
+
+
+		 .bottom-footer{
+		 	text-align: center;
+		 	padding-bottom: 50px;
+			color:#00008b ;
+		 }
+		 
